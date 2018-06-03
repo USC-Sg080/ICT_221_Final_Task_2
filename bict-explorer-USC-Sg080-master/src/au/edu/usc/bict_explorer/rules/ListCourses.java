@@ -51,7 +51,7 @@ public class ListCourses  {
 
     @FXML
     private void initialize()throws IOException {
-        File file = new File("D:\\bict-explorer-USC-Sg080-master\\src\\au\\edu\\usc\\bict_explorer\\rules\\bict.txt");
+        File file = new File("C:\\Users\\Owner\\Desktop\\fxasnmt\\bict-explorer-USC-Sg080-master\\src\\au\\edu\\usc\\bict_explorer\\rules\\bict.txt");
 
         BufferedReader br = new BufferedReader(new FileReader(file));
 
